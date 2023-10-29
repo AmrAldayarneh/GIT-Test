@@ -9,7 +9,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             
-            // Creating an List<T> of String
+           
             List<String> firstlist = new List<String>();
 
             // Adding elements to List
@@ -23,6 +23,8 @@ namespace ConsoleApp2
 
             Console.Write(firstlist.Contains("Java", StringComparer.OrdinalIgnoreCase)); // Should be the whole word
             //Console.Write(firstlist.Any(a => a.Contains("Java",StringComparison.OrdinalIgnoreCase))); // Should not be the whole word
+
+            //aaa
         }
     }
 }
