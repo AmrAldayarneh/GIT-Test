@@ -8,7 +8,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            // Local Main is ahead the remote Main
+            // Local Main is ahead the remote Main 2
             // Creating an List<T> of String
             List<String> firstlist = new List<String>();
 
