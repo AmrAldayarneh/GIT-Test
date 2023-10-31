@@ -8,5 +8,6 @@ namespace ConsoleApp2
     {
         //Daya1
         //Daya2
+        //Daya3
     }
 }
