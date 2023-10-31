@@ -6,5 +6,6 @@ namespace ConsoleApp2
 {
     internal class DayaClass
     {
+        //Daya1
     }
 }
