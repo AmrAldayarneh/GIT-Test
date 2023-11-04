@@ -8,9 +8,9 @@ namespace ConsoleApp2
     {
      public void GetJob()
         {
-            Console.WriteLine("ww");
-            Console.WriteLine("ww");
-            Console.WriteLine("ww");
+            Console.WriteLine("rr");
+            Console.WriteLine("rr");
+            Console.WriteLine("rr");
         }
 
         public void GetJob2()
