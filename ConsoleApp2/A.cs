@@ -6,10 +6,18 @@ namespace ConsoleApp2
 {
     internal class A
     {
-        //A1
-        //A2
-        //A9
-        //A10
-        //A5
+     public void GetJob()
+        {
+            Console.WriteLine("aa");
+            Console.WriteLine("aa");
+            Console.WriteLine("aa");
+        }
+
+        public void GetJob2()
+        {
+            Console.WriteLine("aa2");
+            Console.WriteLine("aa2");
+            Console.WriteLine("aa2");
+        }
     }
 }
